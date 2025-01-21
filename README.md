@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennismantz&label=Profile%20views&color=0e75b6&style=flat" alt="dennismantz" /> </p>
 
-- 🔭 I’m currently working on [SHA-FINAL-PROJECT](https://github.com/DennisMantz/SHA-FINAL-PROJECT)
+- 🔭 I’m currently learning TypeScript.
 
 - 👨‍💻 Most of my projects are available at [https://github.com/DennisMantz](https://github.com/DennisMantz)
 
