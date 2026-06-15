@@ -5,8 +5,6 @@
 
 - 👨‍💻 Public projects are available at [https://github.com/DennisMantz](https://github.com/DennisMantz)
 
-- 📫 Contact me **d.mantzavinatos@gmail.com**
-
 - ⚡ Fun fact **The first-ever computer bug was literally a bug! In 1947, engineers working on the Harvard Mark II computer found that the machine was malfunctioning because a moth had gotten stuck in a relay. They removed the bug and taped it into the logbook, calling it "debugging" the computer. That's where the term "debugging" originated!!!**
 
 <h3 align="left">Connect with me:</h3>
